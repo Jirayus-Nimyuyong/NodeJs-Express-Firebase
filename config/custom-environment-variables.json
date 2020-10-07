@@ -1,0 +1,12 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "firebase": {
+        "url": "FIREBASE_URL"
+    }
+}

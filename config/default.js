@@ -1,0 +1,12 @@
+module.exports = {
+  app: {
+    host: 'localhost',
+    port: '5000'
+  },
+  author: {
+    dev: 'AUTHOR'
+  },
+  firebase: {
+    url: 'FIREBASE_URL'
+  }
+}
